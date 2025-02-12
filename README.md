@@ -1,4 +1,4 @@
-# Diffusion-based KOA Image Generation
+# Temporal Evolution of Knee Osteoarthritis: A Diffusion-based Morphing Model for X-Ray Medical Image Synthesis
 
 This repository contains a Diffusion-based Morphing Model (DMM) for generating anatomically accurate Knee Osteoarthritis (KOA) X-ray image sequences.
 
